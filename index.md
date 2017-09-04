@@ -48,7 +48,7 @@
 - **百度 API 搜索** - 基于百度的API搜索引擎
 - **增强搜索** - 基于 xunsearch 的增强搜索
 - **editor.md** -基于markdown的编辑器 
-- `废除`**[图片管理工具](https://github.com/notadd/imagesmanager.git)**  ![Packagist](https://img.shields.io/packagist/v/notadd/imagesmanager.svg) - 管理图片上传删除等等
+- **[图片管理工具](https://github.com/notadd/imagesmanager.git)**  ![Packagist](https://img.shields.io/packagist/v/notadd/imagesmanager.svg) - 管理图片上传删除等等
 - **数据库备份** - Notadd 的数据库备份与还原插件
 - **在线安装拓展1.0** - 通过git安装插件、拓展、模板、模块
 
@@ -66,7 +66,6 @@
   - 用户聊天
   - 群聊
 - **二维码验证插件**   - 自提核验，线下核验
-- **用户权限值插件**  - 针对用户给定权限值，并且可以指定用户当前权限可操作的权限值（例如可以编辑哪些级别的管理员的帖子）
 
 ### 多用户商城
 
