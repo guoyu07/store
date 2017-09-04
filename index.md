@@ -3,7 +3,7 @@
 官方推荐版本号命名规则  `主版本号.次版本号.修复版本号`
 次版本号 奇数为开发版本，偶数为稳定版
 
-如果您有插件，欢迎提交：`https://github.com/notadd/store/issues`
+如果您有插件，欢迎提交：[https://github.com/notadd/store/issues](https://github.com/notadd/store/issues)
 
 ## 模块
 
