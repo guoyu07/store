@@ -96,7 +96,7 @@
 
 - **PostgreSQL 数据库增强拓展** -充分使用 PostgreSQL 特性
 - **源码加密增强拓展** - 适合加密插件
-- **workerman 增强拓展** - 基于 workerman 的增强拓展
+- **swoole 增强拓展** - 基于 swoole 的增强拓展
 - **Redis 增强拓展** - 基于 Redis 缓存的增强拓展 
 
  ## 周边
