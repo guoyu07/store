@@ -5,7 +5,11 @@
 
 如果您有插件，欢迎提交：[https://github.com/notadd/store/issues](https://github.com/notadd/store/issues)
 
+
+
 ## 模块
+
+- **[Framework](https://github.com/notadd/framework)** ![Packagist](https://img.shields.io/packagist/v/notadd/framework.svg)  
 
 - **[文章模块](https://github.com/notadd/content)** ![Packagist](https://img.shields.io/packagist/v/notadd/content.svg)  
 
@@ -13,7 +17,7 @@
 
 - **[商城模块](https://github.com/notadd/mall)** ![Packagist](https://img.shields.io/packagist/v/notadd/mall.svg) 
 
-- **[微信模块](https://github.com/notadd/wechat)**
+- **[微信模块](https://github.com/notadd/wechat)** 暂未发布
 
 - **问答模块**
 
