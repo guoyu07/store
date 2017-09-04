@@ -32,17 +32,19 @@
 - **[百度推送](https://github.com/notadd/baidu-push)**  ![Packagist](https://img.shields.io/packagist/v/notadd/baidu-push.svg)  - 推送网站新链接给百度搜索引擎
 - **[短信接口（阿里大于）](https://github.com/ganlanshu0211/alidayu)** `开发中` - 用于发短信验证码、语音验证码
 - **幻灯片** `开发中` - 首页幻灯片
-- 云存储 `开发中` - 不经过服务器的七牛云存储插件
+- **云存储** `开发中` - 不经过服务器的又拍云存储插件
+- **文件管理** `开发中` - Notadd 文件管理
 - **[验证码](https://github.com/ganlanshu0211/captcha)**  ![Packagist](https://img.shields.io/packagist/v/ganlanshu0211/captcha.svg)  - 系统全局验证码
 - **[极验验证](https://github.com/bluegeek/notadd-geetest)**  ![Packagist](https://img.shields.io/packagist/v/bluegeek/notadd-geetest.svg)  - 第三方验证码系统
 - **邮件插件（sendcloud/阿里邮件推送）**  - 第三方邮件发送，替代不安全的 - SMTP 和 sendmail
 - **Markdown 小型编辑器** - 支持Markdown语法的简单编辑器
+- **Neditor 富文本编辑器** - 基于ueditor 的现代化富文本编辑器
 - **[支付插件](https://github.com/notadd/payment)**  ![Packagist](https://img.shields.io/packagist/v/notadd/payment.svg)   - 支付宝、微信、银联、paypal支付
 - **内置搜索** - 简单的notadd全文搜索引擎
 - **百度 API 搜索** - 基于百度的API搜索引擎
 - **增强搜索** - 基于 xunsearch 的增强搜索
 - **editor.md** -基于markdown的编辑器 
-- **[图片管理工具](https://github.com/notadd/imagesmanager.git)**  ![Packagist](https://img.shields.io/packagist/v/notadd/imagesmanager.svg) - 管理图片上传删除等等
+- `废除`**[图片管理工具](https://github.com/notadd/imagesmanager.git)**  ![Packagist](https://img.shields.io/packagist/v/notadd/imagesmanager.svg) - 管理图片上传删除等等
 - **数据库备份** - Notadd 的数据库备份与还原插件
 - **在线安装拓展1.0** - 通过git安装插件、拓展、模板、模块
 
@@ -67,6 +69,7 @@
 ### 多用户商城
 
 - **秒杀插件** - 开始时间、结束时间、份数、优惠方式： 定额
+- **图片管理** - 商城后台和商家的图片管理插件
 - **优惠券插件** - 商城优惠券系统
 - **包邮插件** - 满多少包邮
 - **商品自提点插件** 
